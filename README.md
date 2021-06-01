@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Roopam!
+
+<a href="https://www.linkedin.com/in/roopam-jain-b2425617b/">
+  <img align="left" alt="Roopam's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br />
+<br />
+
+
 
 <!--
 **vect-0r/vect-0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
