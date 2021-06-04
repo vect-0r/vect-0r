@@ -14,6 +14,8 @@
 
 I am a student at <em>Indian Institute of Information Technology, Lucknow</em>, majoring in Computer Science. My passion is to work as a Software Engineer 🚀 at a company that makes a difference.
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+
 Apart from developing stuff for the web, I enjoy listening to music 🎧 and reading novels 📚📙.
 
 - 🌱 I’m currently learning Node.js
