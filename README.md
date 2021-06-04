@@ -20,5 +20,5 @@ Apart from developing stuff for the web, I enjoy listening to music 🎧 and rea
 
 - 🌱 I’m currently learning Node.js
 - 🤔 I’m looking for SDE/PM internships
-- 📫 How to reach me: <a href="roopam.ams@gmail.com">Email</a>
+- 📫 Feel free to reach out to me on [twitter](https://twitter.com/RoopamJ1)
 - 😄 Pronouns: He/Him
