@@ -16,7 +16,7 @@ I am a student at <em>Indian Institute of Information Technology, Lucknow</em>, 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
-Apart from developing stuff for the web, I enjoy listening to music 🎧 and reading novels 📚📙.
+In my free time, I enjoy listening to music 🎧 and reading novels 📚📙.
 
 - 🌱 I’m currently learning Node.js
 - 🤔 I’m looking for SDE/PM internships
