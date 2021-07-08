@@ -18,7 +18,3 @@ I am a student at <em>Indian Institute of Information Technology, Lucknow</em>, 
 
 In my free time, I enjoy listening to music 🎧 and reading novels 📚📙.
 
-- 🌱 I’m currently learning Node.js
-- 🤔 I’m looking for SDE/PM internships
-- 📫 Feel free to reach out to me on [twitter](https://twitter.com/RoopamJ1)
-- 😄 Pronouns: He/Him
