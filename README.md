@@ -17,7 +17,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 ### About me
-- 🙋‍♂️ I'm a pre-final year student at IIIT Lucknow, India
+- 🙋‍♂️ I'm a final year student at IIIT Lucknow, India
 - 🔭 I’m currently learning all I can about product management
 - 👯 I’m looking for product management internships in the Fin-Tech space
 - 💬 Ask me about anything, I'm happy to help
@@ -29,26 +29,3 @@
       the Surya Namaskar properly!
 
 
-### Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![HTML](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-### Technologies
-![Node.JS](https://img.shields.io/badge/Node.js-000?&logo=node.js)
-![npm](https://img.shields.io/badge/npm-000?&logo=npm)
-![Express.JS](https://img.shields.io/badge/Express.js-000000?&logo=express)
-![EJS](https://img.shields.io/badge/EJS-000?&logo=ejs)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb)
-![React](https://img.shields.io/badge/React-000?&logo=react)
-![Heroku](https://img.shields.io/badge/Heroku-000?&logo=heroku)
-![Netlify](https://img.shields.io/badge/Netlify-000?&logo=netlify)
-![Git](https://img.shields.io/badge/Git-000?&logo=git)
-![Sass](https://img.shields.io/badge/Sass-000?&logo=sass)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?&logo=bootstrap)
-![JQuery](https://img.shields.io/badge/JQuery-000?&logo=jquery)
-![Postman](https://img.shields.io/badge/Postman-000?&logo=postman)
