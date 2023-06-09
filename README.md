@@ -16,8 +16,8 @@
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
-<!-- ### About me
-- 🙋‍♂️ I'm a final year student at IIIT Lucknow, India
+### About me
+- 🙋‍♂️ I'm a B.Tech (Computer Science) 2023 graduate from the Indian Institute of Information Technology (IIIT), Lucknow
 - 🔭 I’m currently learning all I can about product management
 - 👯 I’m looking for product management internships in the Fin-Tech space
 - 💬 Ask me about anything, I'm happy to help
@@ -26,6 +26,6 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/vect-0r?tab=repositories)
 - ⚡ Besides programming, I like to read books across various genres. I also picked up a hobby 
       of doing Yoga and Meditation during the lockdown. DM me if you want to learn how to do 
-      the Surya Namaskar properly! -->
+      the Surya Namaskar properly!
 
 
