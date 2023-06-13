@@ -18,8 +18,6 @@
 
 ### About me
 - 🙋‍♂️ I'm a B.Tech (Computer Science) 2023 graduate from the Indian Institute of Information Technology (IIIT), Lucknow
-- 🔭 I’m currently learning all I can about product management
-- 👯 I’m looking for product management internships in the Fin-Tech space
 - 💬 Ask me about anything, I'm happy to help
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/roopam-jain-b2425617b/) or 
       drop a [mail](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=roopam.ams@gmail.com).
